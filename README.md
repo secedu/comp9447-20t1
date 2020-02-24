@@ -1,3 +1,11 @@
+# Couse Announcements (Changelog)
+
+[24/2/2020]: [Course schedule](#Course-Schedule) updated
+
+[21/2/2020]: Course Outline released
+* [Teaching Strategies](#Teaching-Strategies)
+* [Resources for Students](#Resources-For-Students)
+
 # COMP9447 Course Outline (AWS Work Integrated Learning)
 
 ## Details
@@ -106,9 +114,19 @@ A presentation (slide deck) presented at AWS at the end of the project detailing
 Students are expected to perform a self reflection on their progress and their work output for the term. Part of this self reflection is a journal that students are expected to keep up to date throughout the term.
 
 ## Course Schedule
-* Week 1: Introduction to AWS
-* Week 2: Immersion Day
-* Week 3 Onwards: Project Work
+
+| Date | Week | Location | Topic
+| ---- | ---- | -------- | ----|
+| 20th Feb | 1 | UNSW | Introduction
+| 27th Feb | 2 | AWS | Immersion Day
+| 5th Mar | 3 | AWS | 
+| 12th Mar | 4 | AWS |
+| 19th Mar | 5 | AWS |
+| 26th Mar | 6 | AWS | AWS Summit Week
+| 9th Apr | 7 | AWS |
+| 16th Apr | 8 | AWS |
+| 23rd Apr | 9 | AWS |
+| 30th Apr | 10 | AWS
 
 // TODO Dates for deliverables
 
