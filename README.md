@@ -96,7 +96,7 @@ Please familiarise yourself with the [AWS Acceptable Usage Policy](https://aws.a
 These artefacts are all due at the end of the term. Specific due dates and relevant marking criteria will be released by the end of Week 2.
 
 ## Artefacts/Deliverables
-// TODO not finalised. Indicative only
+Please consult the marking criteria for each artefact/deliverable for more information.
 
 ### Final Product
 Includes:
@@ -105,13 +105,13 @@ Includes:
 - Any other supporting material (that is required for the final product to be classified as minimum viable product (MVP))
 
 ### Group Report
-A written business-case style report contributed to by all members of the team that documents their experience through this course and the project that they have been working on. This should include a group evaluation.
+A written business-case style report contributed to by all members of the team that documents their experience through this course and the project that they have been working on. This should include a evaluation of the project as a group, the challenges/breakthroughs you faced, what you liked/disliked about the whole experience, etc.
 
 ### Final Presentation
 A presentation (slide deck) presented at AWS at the end of the project detailing the functionality of the final product and the value it presents to solving an issue faced by AWS customers and partners.
 
 ### Self Reflection
-Students are expected to perform a self reflection on their progress and their work output for the term. Part of this self reflection is a journal that students are expected to keep up to date throughout the term.
+At the end of the term students are expected to perform a self reflection on their progress and work output. Part of this self reflection should include a journal that students keep updated throughout the term as a record of their individual progress and learnings for this course.
 
 ## Course Schedule
 
